@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import include, path
-#from blog.views import index, hello_times
+#from blog.views import index, hello_times  (blog 아래로 모두 복사해서 옮김)
 #from blog.views import articles_by_year
 
 #from django.urls import register_converter
